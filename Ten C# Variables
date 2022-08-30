@@ -1,0 +1,30 @@
+using System;
+namespace MyApplication
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      int i = 27;
+      Cosole.WriteLine(i);
+      int w = 32;
+      Console.WriteLine(w);
+      double d = 16.27;
+      Console.WriteLine(d);
+      float f = 2.45;
+      Console.Writeline(f);
+      char c = 'A';
+      Console.Writeline (c);
+      char v = 'D';
+      Console.WriteLine(v);
+      string s = "Hello There";
+      Console.WriteLine(s);
+      string y = "General Kenobi"
+      Console.WriteLine(y);
+      bool b = true;
+      Console.WriteLine(b);
+      bool z = false;
+      Console.WriteLine(z);
+    }
+  }
+}
